@@ -13,9 +13,9 @@ Used Python for Data Cleaning
 
 1: Installed Python
 
-2: Install Pandas Library
+2: Installed Pandas Library
 
-3: Import Pandas Library
+3: Imported Pandas Library
 
 4: Added my CSV file into Jupyter notebook
     using read_csv()
